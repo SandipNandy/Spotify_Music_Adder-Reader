@@ -4,7 +4,7 @@
  * Creation Date :- 28-Feb-23
  * Address :- Bangalore, Karnataka
  **/
-
+// Spotify Web Api Node Express Cors open prompt sync
 
 // npm install spotify-web-api-node express cors open prompt-sync
 const SpotifyWebApi = require('spotify-web-api-node');
