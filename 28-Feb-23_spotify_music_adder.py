@@ -2,7 +2,7 @@
 ##Author :- Sandip Nandi                        #
 ##Creation Date :- 28- feb-23                   #
 ##Address :- Bengalore, Karanataka              #
-##                                              #
+##Spotify Music Adder Reader                    #
 #################################################
 
 
@@ -179,6 +179,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
-    
-    # Hello this peoject is fine
