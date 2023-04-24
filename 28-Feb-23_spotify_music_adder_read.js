@@ -32,6 +32,7 @@ async function start() {
   const url = await api.createAuthorizeURL(scopes, 'randomstate');
   server = app.listen(8080);
   open(url);
+  
 }
 
 async function readSavedTracks() {
