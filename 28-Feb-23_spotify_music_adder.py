@@ -28,6 +28,7 @@ read_token = util.prompt_for_user_token(username, "user-library-read")
 read_scoped_sp = spotipy.Spotify(auth=read_token)
 
 write_token = util.prompt_for_user_token(username, "user-library-modify")
+
 write_scoped_sp = spotipy.Spotify(auth=write_token)
 
 def reduce_track_information(track_list):
