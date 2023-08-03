@@ -12,7 +12,6 @@ We need to export the following environemt variables in our Terminal
     export SPOTIPY_REDIRECT_URI='your-app-redirect-url' (http://localhost:8080 for testing)
 """
 
-
 # create the spotipy instance with the read and write scope
 
 # set a fixed username for now
