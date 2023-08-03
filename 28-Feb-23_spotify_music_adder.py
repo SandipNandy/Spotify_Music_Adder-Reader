@@ -7,7 +7,6 @@
 
 import spotipy
 import spotipy.util as util
-
 """
 We need to export the following environemt variables in our Terminal
     export SPOTIPY_CLIENT_ID='your-spotify-client-id' (e.g. 34a58b3a5a924c99be3bc36c925bc814)
