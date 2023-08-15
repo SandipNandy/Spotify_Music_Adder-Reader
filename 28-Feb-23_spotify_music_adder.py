@@ -28,6 +28,7 @@ write_token = util.prompt_for_user_token(username, "user-library-modify")
 write_scoped_sp = spotipy.Spotify(auth=write_token)
 
 def reduce_track_information(track_list):
+    
     """
     Reduce the amount of information in the given list.
     Creates a triplet of the track information from
