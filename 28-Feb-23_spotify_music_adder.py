@@ -4,6 +4,7 @@
 ##Address :- Bengalore, Karanataka              #
 #################################################
 import spotipy
+
 import spotipy.util as util
 """
 We need to export the following environemt variables in our Terminal
