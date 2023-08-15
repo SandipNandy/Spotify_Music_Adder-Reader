@@ -22,6 +22,7 @@ const open = require('open');
 const app = express();
 
 app.use(cors());
+
 let server = null;
 const clientId = 'ENTER CLIENT ID HERE';
 const clientSecret = 'ENTER CLIENT SECRET HERE';
