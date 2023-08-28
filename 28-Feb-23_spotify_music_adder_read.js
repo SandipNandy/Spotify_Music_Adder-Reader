@@ -5,8 +5,6 @@
  *
  **/
 
-
-
 // npm install spotify-web-api-node express cors open prompt-sync
 
 const SpotifyWebApi = require('spotify-web-api-node');
