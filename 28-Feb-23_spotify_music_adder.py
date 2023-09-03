@@ -20,6 +20,7 @@ We need to export the following environemt variables in our Terminal
 """
 
 # create the spotipy instance with the read and write scope
+
 # set a fixed username for now
 username = "aowve1162mwuc9f56s3k3gxsu"
 read_token = util.prompt_for_user_token(username, "user-library-read")
