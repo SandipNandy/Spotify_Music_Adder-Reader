@@ -14,6 +14,7 @@ const SpotifyWebApi = require('spotify-web-api-node');
 const prompt = require('prompt-sync')();
 
 const express = require('express');
+
 const cors = require('cors');
 const open = require('open');
 const app = express();
