@@ -59,6 +59,7 @@ def reduce_track_information(track_list):
 
         reduced_tracks.append((
             artist_name,
+            
             track_name,
             track_id
         ))
