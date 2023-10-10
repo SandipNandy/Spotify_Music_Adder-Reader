@@ -46,6 +46,7 @@ def reduce_track_information(track_list):
     if tracks is not None:
         # format of search tracks
         tracks = tracks["items"]
+        
     else:
         # format of get saved tracks
         tracks = [track["track"] for track in track_list["items"]]
