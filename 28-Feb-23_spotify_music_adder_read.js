@@ -20,6 +20,7 @@ const scopes = ['user-library-read'];
 
 const api = new SpotifyWebApi({
   clientId,
+  
   clientSecret,
   redirectUri: 'http://localhost:8080',
 });
