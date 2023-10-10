@@ -88,6 +88,7 @@ def get_tracks_for_search_text(search_input):
     Parameters:
     search_text - Name of the song and/or artist to be searched for
 
+
     Returns:
     List of Triplets with artist and song names and track ids
     """
