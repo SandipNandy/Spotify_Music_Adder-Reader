@@ -57,6 +57,7 @@ def reduce_track_information(track_list):
     # only extract the song name, artist name and track id
     for track in tracks:
         track_name = track["name"]
+        
         artist_name = track["artists"][0]["name"]
         track_id = track["id"]
 
