@@ -79,6 +79,7 @@ def read_saved_tracks():
     """
     
     results = read_scoped_sp.current_user_saved_tracks()
+    
     tracks = reduce_track_information(results)
     
     return tracks
