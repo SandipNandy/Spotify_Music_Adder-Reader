@@ -59,6 +59,7 @@ def reduce_track_information(track_list):
         track_name = track["name"]
         
         artist_name = track["artists"][0]["name"]
+        
         track_id = track["id"]
 
         reduced_tracks.append((
