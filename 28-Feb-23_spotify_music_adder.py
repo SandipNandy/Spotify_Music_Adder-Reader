@@ -43,7 +43,6 @@ def reduce_track_information(track_list):
     # get the list of tracks, handle search and show
     if tracks is not None:
         # format of search tracks
-        
         tracks = tracks["items"]
         
     else:
