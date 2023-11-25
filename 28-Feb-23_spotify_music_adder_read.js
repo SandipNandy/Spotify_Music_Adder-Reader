@@ -23,6 +23,7 @@ app.use(cors());
 let server = null;
 
 const clientId = 'ENTER CLIENT ID HERE';
+
 const clientSecret = 'ENTER CLIENT SECRET HERE';
 const scopes = ['user-library-read'];
 
