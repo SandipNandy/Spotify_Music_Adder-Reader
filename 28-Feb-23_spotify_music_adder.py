@@ -49,6 +49,7 @@ def reduce_track_information(track_list):
         
     else:
         # format of get saved tracks
+        
         tracks = [track["track"] for track in track_list["items"]]
 
     # only extract the song name, artist name and track id
