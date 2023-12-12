@@ -139,6 +139,7 @@ def print_options():
     """
 
     print("")
+    
     print("0. List Saved Tracks")
     print("1. Add to Saved Tracks")
     print("2. Exit")
