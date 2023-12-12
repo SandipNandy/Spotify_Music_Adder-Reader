@@ -100,7 +100,6 @@ def get_tracks_for_search_text(search_input):
     result = read_scoped_sp.search(search_input)
     
     tracks = reduce_track_information(result)
-
     return tracks
 
 
