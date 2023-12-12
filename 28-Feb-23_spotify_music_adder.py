@@ -10,6 +10,7 @@ import spotipy.util as util
 """
 We need to export the following environemt variables in our Terminal
     export SPOTIPY_CLIENT_ID='your-spotify-client-id' (e.g. 34a58b3a5a924c99be3bc36c925bc814)    
+    
     export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret' (e.g. 7facae18b589421298fcb82f76440799)
     export SPOTIPY_REDIRECT_URI='your-app-redirect-url' (http://localhost:8080 for testing)
 """
